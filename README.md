@@ -1,12 +1,24 @@
-# actually-good-delete-script
-actually good delete script LMAO
+# actually good delete script
+
+I was deleting a bunch of messages on discord, and realized that the message deletion tool kinda sucks, Undiscord, as it adjusts with every API timeout to the timeout level, making it very useless very quickly (AKA it makes the deletion interval like 20 seconds, and its terrible).
+
+So I modified it so that the script always repsects your intial value. 
+That's literally it.
+
+This is for violentmonkey.
+
+### 73k Messages to Go! wish me luck :)
+
+ALSO I found 1000ms to be the perfect time, any faster and ratelimits become not worth it. In addition, PST 12 am - 5 am works really well, I got like 0 ratelimits during that time.
+
+have fun and crush those idiots your deleting from :)
 
 ```js
 // ==UserScript==
 // @name          Undiscord - Delete all messages in a Discord channel or DM (Bulk deletion)
 // @description   Extends the discord interface so you can mass delete messages from discord
 // @namespace     https://github.com/victornpb/deleteDiscordMessages
-// @version       4.2
+// @version       4.3
 // @match         https://discord.com/*
 // @downloadURL   https://raw.githubusercontent.com/victornpb/deleteDiscordMessages/master/deleteDiscordMessages.user.js
 // @homepageURL   https://github.com/victornpb/deleteDiscordMessages
