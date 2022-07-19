@@ -7,8 +7,7 @@ That's literally it.
 
 This is for violentmonkey.
 
-1000ms is the perfect time, any faster and ratelimits become not worth it. In addition, PST 12 am - 5 am works really well, I have heard.
-have fun and crush those idiots your deleting from :)
+1000ms is the perfect time, any faster and ratelimits become not worth it. In addition, PST 12 am - 5 am works really well, I have heard. Have fun!
 
 ## Note: I don't use this script, as userscripts are banned from discord, I just made this for anyone that wants to test the grey area, as I was looking through the code and it looked quite annoying.
 
