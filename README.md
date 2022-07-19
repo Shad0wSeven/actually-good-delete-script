@@ -14,7 +14,7 @@ have fun and crush those idiots your deleting from :)
 
 ```js
 // ==UserScript==
-// @name          Undiscord - Delete all messages in a Discord channel or DM (Bulk deletion)
+// @name          Undiscord - Delete all messages in a Discord channel or DM (Bulk deletion) [Shad0wSeven Edit]
 // @description   Extends the discord interface so you can mass delete messages from discord
 // @namespace     https://github.com/victornpb/deleteDiscordMessages
 // @version       4.3
